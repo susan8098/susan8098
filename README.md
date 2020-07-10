@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Susan (she/her), I'm a front-end developer currently based in Toronto 🇨🇦.  
+I'm originally from Taiwan 🇹🇼. 
+
+
+
 <!--
 **susan8098/susan8098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
