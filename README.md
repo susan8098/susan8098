@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Susan (she/her), I'm a front-end developer currently based in Toronto 🇨🇦.  
+My name is Susan (she/her), I'm a front-end developer/code instructor currently based in Toronto 🇨🇦.  
 I'm originally from Taiwan 🇹🇼. 
 
 
